@@ -12,15 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-16 01:34:21</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>c444c517db6be700351059d0cf9619d9</sys_id>
+        <sys_id>ff058957dbe36300f7e65740cf961969</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_69202_new_app_new_app_2nd_table</sys_name>
         <sys_package display_value="New App" source="x_69202_new_app">9d7341dfdbe3e700351059d0cf961967</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="New App">9d7341dfdbe3e700351059d0cf961967</sys_scope>
-        <sys_update_name>ua_table_licensing_config_c444c517db6be700351059d0cf9619d9</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_ff058957dbe36300f7e65740cf961969</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-02-16 01:34:21</sys_updated_on>
     </ua_table_licensing_config>
